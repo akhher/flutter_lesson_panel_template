@@ -1,16 +1,17 @@
-# flutter_lesson_panel_template
+# Lesson Panel Template
 
-A new Flutter project.
+A common template for course application that has some feaatures:
+- Description text
+- YouTube player
+- Go to link button
 
-## Getting Started
+## Pages Documentation
 
-This project is a starting point for a Flutter application.
+### Main Page
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/akhher/flutter_leson_panel_template/assets/147062436/3e3588ed-1606-4e50-a605-d6a8ba45c806' width ='250'>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- youtube_player_flutter: ^9.0.1
+- url_launcher: ^6.2.6
